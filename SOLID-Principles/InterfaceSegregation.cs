@@ -1,7 +1,7 @@
 ﻿namespace SOLID_Principles;
 
 /// <summary>
-/// DeltaQMachine_IS shouldn't be force to implement methods to clean or add milk that will not be use. To fixe that we
+/// DeltaQMachine_IS shouldn't be force to implement methods to clean or add milk that will not be used. To fixe that, we
 /// should separate the interface. 
 /// </summary>
 
