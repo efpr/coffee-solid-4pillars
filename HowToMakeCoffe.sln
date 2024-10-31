@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID-Principles", "SOLID-Principles\SOLID-Principles.csproj", "{A759530C-303F-48B0-979E-B754092D29BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pillars-OO-Programming", "Pillars-OO-Programming\Pillars-OO-Programming.csproj", "{4BB74D47-E185-4B9F-B70F-E43B6996B2A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A759530C-303F-48B0-979E-B754092D29BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A759530C-303F-48B0-979E-B754092D29BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A759530C-303F-48B0-979E-B754092D29BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A759530C-303F-48B0-979E-B754092D29BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB74D47-E185-4B9F-B70F-E43B6996B2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB74D47-E185-4B9F-B70F-E43B6996B2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB74D47-E185-4B9F-B70F-E43B6996B2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB74D47-E185-4B9F-B70F-E43B6996B2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
